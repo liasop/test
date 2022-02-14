@@ -26,6 +26,9 @@ x = np.arange(0,100)
 
 ```python
 y = 10
+s = 'my string'
+c = s.split()
+c[1]
 ```
 
 ```python
