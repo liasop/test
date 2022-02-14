@@ -32,5 +32,9 @@ y
 ```
 
 ```python
+z = np.arange(9,10)
+```
+
+```python
 
 ```

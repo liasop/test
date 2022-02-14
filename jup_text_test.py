@@ -26,4 +26,6 @@ def my_fun(x):
 y = my_fun(x)
 y
 
+z = np.arange(9,10)
+
 
