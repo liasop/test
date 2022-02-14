@@ -32,9 +32,13 @@ y
 ```
 
 ```python
+<<<<<<< HEAD
 s = 'samanthas string baby'
 k = s.split()
 print(k[2])
+=======
+z = np.arange(9,10)
+>>>>>>> d42eef5efd4fff38d529195079dae69c9a8e6cae
 ```
 
 ```python
