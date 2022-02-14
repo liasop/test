@@ -23,3 +23,7 @@ def my_fun(x):
     return x*2
 
 
+y = my_fun(x)
+y
+
+

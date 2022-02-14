@@ -27,5 +27,10 @@ def my_fun(x):
 ```
 
 ```python
+y = my_fun(x)
+y
+```
+
+```python
 
 ```
