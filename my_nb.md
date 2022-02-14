@@ -25,5 +25,9 @@ x = np.arange(0,100)
 # Helloooooo
 
 ```python
+y = 10
+```
+
+```python
 
 ```
