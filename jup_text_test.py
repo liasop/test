@@ -19,11 +19,16 @@
 import numpy as np
 x = np.arange(0,100,2)
 
+
 def my_fun(x):
     return x*2
 
 
 y = my_fun(x)
 y
+
+s = 'samanthas string baby'
+k = s.split()
+print(k[2])
 
 

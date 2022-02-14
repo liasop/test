@@ -32,5 +32,11 @@ y
 ```
 
 ```python
+s = 'samanthas string baby'
+k = s.split()
+print(k[2])
+```
+
+```python
 
 ```
