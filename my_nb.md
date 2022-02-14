@@ -25,5 +25,11 @@ x = np.arange(0,100)
 # Helloooooo
 
 ```python
+s = 'my string'
+c = s.split()
+c[1]
+```
+
+```python
 
 ```
